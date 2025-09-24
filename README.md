@@ -10,9 +10,8 @@ Most of my repositories are currently set to private due to academic integrity a
 - Data Structures & Algorithms
 - DevOps & Cloud Tools (AWS, GitHub Actions)
 
-Feel free to email me or connect with me on LinkedIn.
+Feel free to connect with me on LinkedIn.
 
-📧 [Email me](mailto:cbieker@usc.edu)  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/cameron-bieker)
 
 Thanks again for visiting!
